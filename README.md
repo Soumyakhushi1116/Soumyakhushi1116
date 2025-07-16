@@ -13,10 +13,9 @@
 ## 📖 Table of Contents
 1. [About Me](#-about-me)
 2. [Projects](#-projects)
-3. [Achievements](#-achievements)
-4. [Tech Stack](#-tech-stack)
-5. [GitHub Stats](#-github-stats)
-6. [Connect with Me](#-connect-with-me)
+3. [Tech Stack](#-tech-stack)
+4. [GitHub Stats](#-github-stats)
+5. [Connect with Me](#-connect-with-me)
 
 ---
 
