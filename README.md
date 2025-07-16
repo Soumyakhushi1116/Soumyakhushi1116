@@ -24,7 +24,7 @@
 - 🔭 Currently pursuing AI/ML studies and building data-driven solutions.
 - 🌱 Passionate about data analysis, visualization, and dashboard creation.
 - 💬 Ask me about Python, SQL, Power BI, or data storytelling.
-- 📫 How to reach me: [soumyakhushi1116@gmail.com](mailto:soumyakhushi2005@gmail.com)
+- 📫 How to reach me: [soumyakhushi2005@gmail.com](mailto:soumyakhushi2005@gmail.com)
 - ⚡ Fun fact: I love experimenting with innovative visualization techniques!
 
 ---
@@ -59,12 +59,7 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Place**, AI/ML Hackathon 2023  
-- 📜 **Google Data Analytics Professional Certificate**  
-- 🎤 **Speaker**, "Data Visualization Best Practices" at Tech Symposium 2024
 
----
 
 ## 🛠️ Tech Stack
 
