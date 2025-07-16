@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Soumya Singh</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/soumyakhushi1116"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:soumyakhushi1116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soumya-singh-b4a628286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:soumyakhushi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Soumyakhushi1116"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -24,7 +24,7 @@
 - 🔭 Currently pursuing AI/ML studies and building data-driven solutions.
 - 🌱 Passionate about data analysis, visualization, and dashboard creation.
 - 💬 Ask me about Python, SQL, Power BI, or data storytelling.
-- 📫 How to reach me: [soumyakhushi1116@gmail.com](mailto:soumyakhushi1116@gmail.com)
+- 📫 How to reach me: [soumyakhushi1116@gmail.com](mailto:soumyakhushi2005@gmail.com)
 - ⚡ Fun fact: I love experimenting with innovative visualization techniques!
 
 ---
@@ -96,8 +96,8 @@
 
 ## 🌟 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/soumyakhushi1116"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:soumyakhushi1116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/soumya-singh-b4a628286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:soumyakhushi2005gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Soumyakhushi1116"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
