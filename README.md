@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align= 'center' >Soumya singh</h1>
+<p align = "center">AI/ML Student i am passinate student</p>
 
-<!--
-**Soumyakhushi1116/Soumyakhushi1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project
+- ## Pizza Sales Dashboard 
+	- I use Business intelligence tool name PowerBI to 
+	- what i use
+	- how i use
+	- adv
+---
+- ## Numpy
+	- yhis is h
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Achivement
+
+
+<a href= "https://github.com/soumyakhushi1116" style="color : gold">GitHub</a>
